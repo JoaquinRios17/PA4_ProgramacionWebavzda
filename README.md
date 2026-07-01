@@ -2,19 +2,19 @@
 Instalación
 
 cd al terminal de backend
-npm install
-cp .env.example .env
-npm run dev
+npm install /
+cp .env.example .env /
+npm run dev /
 
 cd al terminal de frontend-next
-npm install
-cp .env.example .env
-npm run dev
+npm install /
+cp .env.example .env /
+npm run dev /
 
 cd al terminal frontend-next
-npm install
-cp .env.example .env
-npm run dev
+npm install /
+cp .env.example .env /
+npm run dev /
 
 Backend http://localhost:3000
 React http://localhost:5173
