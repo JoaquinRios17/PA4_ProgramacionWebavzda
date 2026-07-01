@@ -16,11 +16,19 @@ npm install /
 cp .env.example .env /
 npm run dev /
 
+Tecnologías usadas
+
+- Next.js 16 con App Router
+- TypeScript
+- Tailwind CSS
+
 Backend http://localhost:3000
 React http://localhost:5173
 Next.js http://localhost:3001
 
 El backend debe estar corriendo antes de usar este frontend.
+
+
 
 Integrantes
 
